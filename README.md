@@ -6,14 +6,16 @@
 - 📫 You can reach me on: [ https://olamideogundiran.netlify.app/](https://www.linkedin.com/in/olamideogundiran/)
 - ⚡ Fun fact: I love playing the guitar
 
-Core Competencies:
+
+#### Core Competencies:
 
 * Project Management
 * Data Analysis
 * Growth Analytics
 * Data Visualization
 * Creative Thinking
-Technical Skills
+
+#### Technical Skills
 
 * Python (Pandas, Numpy, Matplotlib, Seaborn)
 * Tableau
