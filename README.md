@@ -18,8 +18,8 @@
 #### Technical Skills
 
 * Python (Pandas, Numpy, Matplotlib, Seaborn)
-* Tableau
 * Sql (Mysql, MsSql, PostgreSql)
+* Tableau
 * Microsoft Excel
 * Figma
 * HTML
