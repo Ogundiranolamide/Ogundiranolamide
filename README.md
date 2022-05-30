@@ -19,7 +19,7 @@
 
 * Python (Pandas, Numpy, Matplotlib, Seaborn)
 * Tableau
-* Sql
+* Sql (Mysql, MsSql, PostgreSql)
 * Microsoft Excel
 * Figma
 * HTML
