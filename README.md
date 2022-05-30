@@ -11,8 +11,8 @@ I am a Data Analyst with experience in event planning, sales, marketing and fina
 #### Core Competencies:
 
 * Project Management
-* Data Analysis
-* Growth Analytics
+* Data Analytics
+* Growth Analytics and Management
 * Data Visualization
 * Creative Thinking
 
