@@ -8,18 +8,15 @@
 
 Core Competencies:
 
-* Process Improvement
-Project Management
-Data Analysis
-Data Visualization
-Statistics
-Machine Learning
-Lean Six Sigma
-Creative Thinking
+* Project Management
+* Data Analysis
+* Growth Analytics
+* Data Visualization
+* Creative Thinking
 Technical Skills
 
-Python
-Tableau
-Power BI
-Microsoft Excel
-R
+* Python (Pandas, Numpy, Matplotlib, Seaborn)
+* Tableau
+* Sql
+* Microsoft Excel
+* Figma
