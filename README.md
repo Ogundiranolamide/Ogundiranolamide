@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Music database Projects
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on projects with amazing minds
-- 📫 You can reach me on: (https://www.linkedin.com/in/olamideogundiran/)
+- 📫 You can reach me on: https://www.linkedin.com/in/olamideogundiran/
 - ⚡ Fun fact: I love playing the guitar
 
 
