@@ -22,3 +22,4 @@
 * Sql
 * Microsoft Excel
 * Figma
+* HTML
