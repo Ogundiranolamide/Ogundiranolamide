@@ -25,4 +25,4 @@ I am a Data Analyst with experience in event planning, sales, marketing and fina
 * Figma
 * HTML
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ogundiranolamide&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=Ogundiranolamide&&show_icons=true&title_color=ffffff&icon_color=E5F5D0&text_color=FCFCFC&bg_color=000000">
